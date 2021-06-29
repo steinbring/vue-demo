@@ -2,6 +2,8 @@
 
 This is a basic Vue.js demo that is based upon [https://codepen.io/steinbring/pen/LYyPjmM](https://codepen.io/steinbring/pen/LYyPjmM) but uses the [Vue CLI](https://cli.vuejs.org/).
 
+Demo Site: [https://vue-demo.jws.app/](https://vue-demo.jws.app/)
+
 ## Project setup
 ```
 npm install
